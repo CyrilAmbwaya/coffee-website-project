@@ -564,7 +564,7 @@ section {
   color: var(--main-color);
 }
 
-@media (max-width: 991px) {
+/*@media (max-width: 991px) {
   html {
     font-size: 55%;
   }
